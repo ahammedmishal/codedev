@@ -1,7 +1,5 @@
 import { GlobalStyle } from "./globalStyles";
 import { lazy, Suspense } from "react";
-import BrowserRouter from 'react-router-dom/BrowserRouter';
-
 const Home = lazy(() => import("./Pages/Home"));
 const Header = lazy(() => import("./components/Header/index"));
 const Footer = lazy(() => import("./components/Footer/index"));
