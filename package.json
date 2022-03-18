@@ -1,5 +1,6 @@
 {
   "name": "agency-website",
+  "homepage": "https://ahammedmishal.github.io/codedev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
